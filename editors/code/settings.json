@@ -1,0 +1,37 @@
+{
+    "workbench.colorTheme": "One Dark Pro Mix",
+    "editor.fontFamily": "'Cascadia Code'",
+    "editor.fontLigatures": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontSize": 16,
+    "editor.fontWeight": "bold",
+    "editor.inlineSuggest.enabled": true,
+    "workbench.editor.enablePreview": false,
+    "oneDarkPro.bold": true,
+    "oneDarkPro.vivid": true,
+    "editor.wordWrap": "on",
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.css-language-features",
+        "editor.formatOnSave": true
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.css-language-features",
+        "editor.formatOnSave": true
+    },
+    "[scss]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "github.copilot.enable": {
+        "*": true,
+        "yaml": false,
+        "plaintext": true,
+        "markdown": false
+    }
+}
