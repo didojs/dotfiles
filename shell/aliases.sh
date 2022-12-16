@@ -7,12 +7,14 @@ alias ll="ls -l"
 alias la="ls -la"
 alias ~="cd ~"
 alias dotfiles='cd $DOTFILES_PATH'
-alias main='cd Main'
+alias main='cd $MAIN_PATH'
+alias webecreea='cd /Users/dido/Main/Ecreea/Web-Corporativa/ecreeawebcorp'
 
 # Git
 alias gaa="git add -A"
 alias gc='$DOTLY_PATH/bin/dot git commit'
-alias gca="git add --all && git commit --amend --no-edit"
+alias gcm='git commit -m'
+alias gca="git commit -am"
 alias gco="git checkout"
 alias gd='$DOTLY_PATH/bin/dot git pretty-diff'
 alias gs="git status -sb"

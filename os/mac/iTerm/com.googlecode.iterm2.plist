@@ -1734,13 +1734,13 @@
 		<key>0x4e-0x120000-0x2d</key>
 		<dict>
 			<key>Action</key>
-			<integer>27</integer>
-			<key>Label</key>
-			<string></string>
+			<integer>61</integer>
+			<key>Escaping</key>
+			<integer>2</integer>
 			<key>Text</key>
-			<string>2DE1C46F-C620-4182-8B81-936B8D147E20</string>
+			<string></string>
 			<key>Version</key>
-			<integer>1</integer>
+			<integer>2</integer>
 		</dict>
 		<key>0x50-0x120000</key>
 		<dict>
